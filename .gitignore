@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/*
+
+# Source Editor
+.vscode/*
+
+# Cache
+**__pycache__
+
+# Temporary DB
+db.sqlite3
